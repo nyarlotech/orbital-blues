@@ -25,5 +25,6 @@
 		}
 	],
 	"initiative": "2d6",
-	"manifest": "https://raw.githubusercontent.com/nyarlotech/orbital-blues/main/system.json"
+	"manifest": "https://raw.githubusercontent.com/nyarlotech/orbital-blues/main/system.json",
+	"download": "https://github.com/nyarlotech/orbital-blues/archive/refs/tags/pre-Dev.zip"
 }
