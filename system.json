@@ -2,7 +2,7 @@
 	"id": "orbital-blues",
 	"title": "Orbital Blues",
 	"description": "A basic system to play Orbital Blues by Soul Muppet Publishing.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11",
