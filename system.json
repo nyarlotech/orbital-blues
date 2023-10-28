@@ -1,0 +1,29 @@
+{
+	"id": "orbital-blues",
+	"title": "Orbital Blues",
+	"description": "A basic system to play Orbital Blues by Soul Muppet Publishing.",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11",
+		"maximum": "11"
+	},
+	"authors": [
+		{
+			"name": "finderski"
+		}
+	],
+	"scripts": [],
+	"esmodules": [],
+	"styles": [],
+	"packs": [],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"initiative": "2d6",
+	"manifest": ""
+}
