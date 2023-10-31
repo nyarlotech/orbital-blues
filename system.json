@@ -3,6 +3,9 @@
 	"title": "Orbital Blues",
 	"description": "A basic system to play Orbital Blues by Soul Muppet Publishing.",
 	"version": "0.0.3",
+	"manifest": "https://raw.githubusercontent.com/nyarlotech/orbital-blues/main/system.json",
+	"download": "https://github.com/nyarlotech/orbital-blues/archive/refs/tags/v0.0.3.zip",
+	"background": "systems/orbital-blues/assets/orbital-blues-cover.webp",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11",
@@ -24,7 +27,5 @@
 			"path": "lang/en.json"
 		}
 	],
-	"initiative": "2d6",
-	"manifest": "https://raw.githubusercontent.com/nyarlotech/orbital-blues/main/system.json",
-	"download": "https://github.com/nyarlotech/orbital-blues/archive/refs/tags/v0.0.3.zip"
+	"initiative": "2d6"
 }
